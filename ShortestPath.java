@@ -1,5 +1,5 @@
 /**
- *  @Rowena CS1027 | 251073629
+ *  @author Rowena
  *  This class represents the algorithm to find the shortest path.
  */
 
