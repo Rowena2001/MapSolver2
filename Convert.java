@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 /**
+ * @author Rowena
  * Class to open a file and either read information from it or write information
  * to it. If a file is opened in "read" mode we can only read information from
  * it. Otherwise, we can only write information to it.
