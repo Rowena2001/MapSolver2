@@ -1,5 +1,5 @@
 /**
- *  @Rowena CS1027 | 251073629
+ *  @author Rowena
  *  This class represents the data items that will be stored in the circular array.
  *  Each object of this class stores two things: an identifier and a value.
  */
