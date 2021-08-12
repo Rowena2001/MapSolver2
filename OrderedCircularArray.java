@@ -1,5 +1,5 @@
 /**
- *  @Rowena CS1027 | 251073629
+ *  @author Rowena 
  *  This class implements an ordered list using a circular array.
  *  This class must implement the interface SortedListADT.java.
  */
