@@ -1,3 +1,6 @@
+/*
+ * @author CS1027
+ */
 
 public class TestCircularArray {
 
